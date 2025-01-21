@@ -1,4 +1,4 @@
-<h2 align="left">Hi, My name is Saber and I'm a full-stack programmer, from Dubai.</h2>
+<h2 align="left">Full-stack programmer.</h2>
 
 ###
 
